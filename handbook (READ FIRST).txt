@@ -1,0 +1,30 @@
+yea this is plate. this is technically a handbook so let's start.
+
+Text:
+text *insert your very epic text without the astericks*
+
+Create a Window:
+window
+
+Delete all Windows:
+delete window
+
+Create a window with text
+window text *insert your very epic text but without the astericks*
+
+Exit the shell:
+exit
+
+Show credits:
+credits
+
+Create a plate file:
+createfile
+
+Open a plate file:
+open main.pae
+
+
+currently this is it for plate but you create an issue on what should i add or message me on discord
+
+- godlyspinx  <-- (my dc name)
