@@ -1,5 +1,7 @@
 yea this is plate. this is technically a handbook so let's start.
 
+(FOR THE COMPILER YOU NEED TO DOWNLOAD PYINSTALLER *pip install pyinstaller*)
+
 Text:
 text *insert your very epic text without the astericks*
 
