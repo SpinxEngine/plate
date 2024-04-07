@@ -1,6 +1,6 @@
 yea this is plate. this is technically a handbook so let's start.
 
-(FOR THE COMPILER YOU NEED TO DOWNLOAD PYINSTALLER *pip install pyinstaller*)
+(the compiler is only converts your plate file to a py file. this took way too long to make)
 
 Text:
 text *insert your very epic text without the astericks*
