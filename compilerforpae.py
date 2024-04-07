@@ -1,5 +1,3 @@
-import os
-
 def compile_to_python(input_file, output_file):
     with open(input_file, 'r') as file:
         lines = file.readlines()
@@ -38,16 +36,11 @@ window.mainloop()
 
 def main():
     input_file = "main.pae"  # Change this to the name of your input ".pae" file
-    python_file = "main.py"   # Change this to the name of the output Python file
-    exe_file = "main.exe"     # Change this to the name of the output executable file
+    output_file = "main.py"   # Change this to the name of the output Python file
 
     # Compile the ".pae" file to Python
-    compile_to_python(input_file, python_file)
-    print(f"Compilation completed. Python file: {python_file}")
-
-    # Run PyInstaller to convert the Python file to an executable
-    os.system(f'pyinstaller --onefile {python_file}')
-    print(f"Executable file generated: {exe_file}")
+    compile_to_python(input_file, output_file)
+    print(f"Compilation completed. Python file: {output_file}")
 
 if __name__ == "__main__":
     main()
