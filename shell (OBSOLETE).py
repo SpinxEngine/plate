@@ -1,1 +1,0 @@
-input ("THIS SHELL IS NOW OBSOLETE! USE basic.py FOR THE NEW SHELL :)")
